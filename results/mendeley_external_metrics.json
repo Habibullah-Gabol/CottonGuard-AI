@@ -1,0 +1,8 @@
+{
+    "images_evaluated": 958,
+    "correct_predictions": 843,
+    "accuracy": 0.8799582463465553,
+    "macro_precision": 0.41988432165318956,
+    "macro_recall": 0.4133969177024422,
+    "macro_f1": 0.41580110497237566
+}

@@ -1,0 +1,21 @@
+# Python environment
+venv/
+.env/
+__pycache__/
+*.py[cod]
+# Jupyter
+.ipynb_checkpoints/
+# Datasets
+data/
+external_dataset/
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Temporary files
+*.log
+*.tmp
+
+# Exclude unused ResNet checkpoint
+models/deep_learning/resnet18_best.pth

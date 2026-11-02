@@ -1,0 +1,5 @@
+,bacterial_blight,curl_virus,fussarium_wilt,healthy
+bacterial_blight,82,2,0,35
+curl_virus,0,0,0,14
+fussarium_wilt,4,2,0,30
+healthy,20,6,2,761

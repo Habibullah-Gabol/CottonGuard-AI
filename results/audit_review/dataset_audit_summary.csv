@@ -1,0 +1,17 @@
+metric,value
+original_image_files,1716
+valid_images,1716
+corrupted_images,0
+unique_exact_contents,1591
+exact_duplicate_groups,118
+redundant_exact_copies,125
+cross_class_exact_duplicate_groups,0
+deduplicated_index_images,1591
+near_duplicate_connected_groups,966
+near_duplicate_mixed_label_groups,0
+candidate_train_images,1116
+candidate_validation_images,236
+candidate_test_images,239
+train_validation_group_overlap,0
+train_test_group_overlap,0
+validation_test_group_overlap,0

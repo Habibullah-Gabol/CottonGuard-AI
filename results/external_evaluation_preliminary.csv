@@ -1,0 +1,18 @@
+image,image_path,external_folder,true_label,predicted_label,confidence,correct
+images (12).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Fusarium/images (12).jpg,Fusarium,fussarium_wilt,fussarium_wilt,0.9998522996902466,True
+images (13).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Fusarium/images (13).jpg,Fusarium,fussarium_wilt,fussarium_wilt,0.9932137727737427,True
+images (14).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Fusarium/images (14).jpg,Fusarium,fussarium_wilt,fussarium_wilt,0.9995622038841248,True
+images (15).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Fusarium/images (15).jpg,Fusarium,fussarium_wilt,fussarium_wilt,0.9990690350532532,True
+images (16).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Fusarium/images (16).jpg,Fusarium,fussarium_wilt,fussarium_wilt,0.9948427081108093,True
+images (17).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Fusarium/images (17).jpg,Fusarium,fussarium_wilt,fussarium_wilt,0.9988192915916443,True
+images (18).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Fusarium/images (18).jpg,Fusarium,fussarium_wilt,bacterial_blight,0.8300891518592834,False
+images (24).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Fusarium/images (24).jpg,Fusarium,fussarium_wilt,fussarium_wilt,0.9251135587692261,True
+images.jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Fusarium/images.jpg,Fusarium,fussarium_wilt,fussarium_wilt,0.999471127986908,True
+fre-leaf(10025).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Healthy cotton leaf/fre-leaf(10025).jpg,Healthy cotton leaf,healthy,healthy,0.9995635151863098,True
+fre-leaf(10035).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Healthy cotton leaf/fre-leaf(10035).jpg,Healthy cotton leaf,healthy,healthy,0.9941661357879639,True
+fre-leaf(10039).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Healthy cotton leaf/fre-leaf(10039).jpg,Healthy cotton leaf,healthy,healthy,0.9766739010810852,True
+fre-leaf(10040).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Healthy cotton leaf/fre-leaf(10040).jpg,Healthy cotton leaf,healthy,healthy,0.9881097078323364,True
+fre-leaf(10051).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Healthy cotton leaf/fre-leaf(10051).jpg,Healthy cotton leaf,healthy,healthy,0.9955780506134033,True
+fre-leaf(10053).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Healthy cotton leaf/fre-leaf(10053).jpg,Healthy cotton leaf,healthy,healthy,0.9677924513816833,True
+fre-leaf(10056).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Healthy cotton leaf/fre-leaf(10056).jpg,Healthy cotton leaf,healthy,healthy,0.9851824641227722,True
+fre-leaf(10064).jpg,/content/gdrive/MyDrive/CottonGuard-AI/external_dataset/Cotton_Crop_Dataset/test/Healthy cotton leaf/fre-leaf(10064).jpg,Healthy cotton leaf,healthy,healthy,0.9889658093452454,True

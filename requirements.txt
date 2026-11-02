@@ -1,0 +1,12 @@
+torch
+torchvision
+streamlit
+pandas
+numpy
+Pillow
+scikit-learn
+opencv-python-headless
+ImageHash
+joblib
+matplotlib
+seaborn

@@ -1,0 +1,28 @@
+# Python environment
+venv/
+.env/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets (root directories only)
+/data/
+/external_dataset/
+
+# Generated data
+/results/data/
+
+# Unused ResNet checkpoint
+models/deep_learning/resnet18_best.pth
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
